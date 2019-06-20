@@ -1,6 +1,4 @@
-about
-comment
-friends
-lab
-photos
-tags
+.DS_Store
+*.iml
+_book/
+
